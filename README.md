@@ -95,3 +95,4 @@ touch ~/.oh-my-zsh/custom/aliases.zsh
 - [wiki-themes](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes)
 - [prompt-generator](https://zsh-prompt-generator.site/)
 - [external-themes](https://github.com/ohmyzsh/ohmyzsh/wiki/External-themes)
+- [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
