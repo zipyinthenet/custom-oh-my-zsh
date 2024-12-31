@@ -3,7 +3,7 @@
 ## Install ZSH
 
 ```
-sudo apt install zsh-autosuggestions zsh-syntax-highlighting zsh curl
+sudo apt install zsh-autosuggestions zsh-syntax-highlighting zsh curl fzf
 ```
 
 ## Change shell
