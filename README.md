@@ -65,7 +65,7 @@ vim ~/.zshrc
 ```
 
 ```
-plugins=(git zsh-autosuggestions zsh-syntax-highlighting fast-syntax-highlighting zsh-autocomplete zsh-ssh ansible command-not-found common-aliases docker docker-compose kubectl nmap python sudo ubuntu)
+plugins=(git zsh-autosuggestions zsh-syntax-highlighting fast-syntax-highlighting zsh-autocomplete zsh-ssh ansible command-not-found common-aliases docker docker-compose kubectl nmap python sudo ubuntu $plugins)
 ```
 
 ## ZSH aliases
