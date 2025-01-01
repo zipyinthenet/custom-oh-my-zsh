@@ -3,7 +3,7 @@
 ## Install ZSH
 
 ```
-sudo apt install zsh-autosuggestions zsh-syntax-highlighting zsh curl fzf
+sudo apt install zsh-autosuggestions zsh-syntax-highlighting zsh curl wget fzf
 ```
 
 ## Change shell
@@ -81,6 +81,20 @@ vim ~/.oh-my-zsh/custom/aliases.zsh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+```
+
+## Install custom themes
+
+```
+wget -O ~/.oh-my-zsh/custom/themes/my_awesome_robbyrussell.zsh-theme https://github.com/zipyinthenet/custom-oh-my-zsh/raw/refs/heads/main/custom/themes/my_awesome_robbyrussell.zsh-theme
+```
+
+```
+vim ~/.zshrc
+```
+
+```
+ZSH_THEME="my_awesome_robbyrussell"
 ```
 
 ## References
