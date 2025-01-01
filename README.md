@@ -71,7 +71,7 @@ plugins=(git zsh-autosuggestions zsh-syntax-highlighting fast-syntax-highlightin
 ## ZSH aliases
 
 ```
-touch ~/.oh-my-zsh/custom/aliases.zsh
+vim ~/.oh-my-zsh/custom/aliases.zsh
 ```
 
 ```
