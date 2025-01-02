@@ -110,3 +110,4 @@ ZSH_THEME="my_awesome_robbyrussell"
 - [prompt-generator](https://zsh-prompt-generator.site/)
 - [external-themes](https://github.com/ohmyzsh/ohmyzsh/wiki/External-themes)
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
+- [zsh-custom-theme-ultimate-guide](https://aamnah.com/notes/sysadmin/zsh-custom-theme-ultimate-guide/)
